@@ -1,0 +1,27 @@
+{
+    "id": "6FF5A82C",
+    "path": "D:/Data Analysis/Personal Projects Directory/Topic Modeling - Digital Innovation Scientific Articles/Topic_Modeling-Digital_Innovation_Scientific_Articles.R",
+    "project_path": "Topic_Modeling-Digital_Innovation_Scientific_Articles.R",
+    "type": "r_source",
+    "hash": "2310418205",
+    "contents": "",
+    "dirty": false,
+    "created": 1618522017305.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "tempName": "Untitled1",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "22,0",
+        "scrollLine": "31"
+    },
+    "folds": "0|63|0|79|\n18|22|19|0|\n76|31|80|0|\n83|35|88|0|\n89|38|90|0|\n91|33|95|0|\n96|51|100|0|\n101|31|105|0|\n106|29|113|0|\n134|27|150|0|\n151|30|152|0|\n153|22|169|0|\n170|22|185|0|\n190|51|197|0|\n198|55|205|0|\n206|41|226|0|\n227|28|235|0|\n236|25|244|0|\n245|27|251|0|\n254|43|255|0|\n256|29|264|0|\n265|31|273|0|\n276|29|293|0|\n294|43|300|0|\n301|44|305|0|\n306|37|309|0|\n310|46|311|0|\n312|49|324|0|\n325|43|332|0|\n333|51|341|0|\n342|44|354|0|\n",
+    "lastKnownWriteTime": 1618983079,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1619343585219,
+    "read_only": false,
+    "read_only_alternatives": []
+}
